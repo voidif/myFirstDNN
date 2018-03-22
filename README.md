@@ -1,2 +1,2 @@
 # myFirstDNN
-My first big projext
+My first big project
